@@ -47,7 +47,7 @@ go mod tidy
 Import in other services:
 
 ```go
-import "github.com/yourusername/eternalsphere-shared-go/auth/middleware"
+import "github.com/NBDor/eternalsphere-shared-go/auth/middleware"
 ```
 
 ## Testing
